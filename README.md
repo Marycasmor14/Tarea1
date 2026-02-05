@@ -1,2 +1,41 @@
-# Tarea1
-Tarea 1
+**Inteligencia Artificial y su impacto en la vida diaria.**
+Es un tema interesante ya que la tecnología avanza a pasos agigantados y su impacto en la vida cotidiana es enorme para todas las generaciones, siendo honestos las personas mayores son a las que se les dificulta más la interacción con la IA en cambio para las personas jóvenes es más fácil están dispuestos a experimentar y obtener nuevos conocimientos.
+El propósito o idea principal fue hacer que las maquinas piensen como humanos.
+Este concepto surge en el año de 1956 durante un evento académico llamado Conferencia de Dartmouth, el principal creador y padre de la inteligencia artificial es considerado John McCarthy fue quien sentó las bases para el desarrollo de programas inteligentes, fue un matemático y científico computacional.
+
+**Funcionamiento**
+La inteligencia artificial funciona a través de un proceso lógico basado en datos los pasos que sigue son: 
+-	Recolección de datos.
+-	Procesamiento de datos.
+-	Aprendizaje.
+-	Toma de decisiones.
+-	Mejora continua.
+**Componentes**
+Los componentes esenciales de la inteligencia artificial son:
+-	Datos.
+-	Algoritmos.
+-	Modelos de aprendizaje automático.
+-	Capacidad de cómputo.
+-	Redes neuronales artificiales.
+-	Software especializado.
+**Que pasaría si no existiera**
+Si la inteligencia artificial no existiera:
+-	Procesos más lentos y costosos.
+-	No existirían asistentes virtuales.
+-	La automatización en la industria seria mínima.
+-	La toma de decisiones dependería solo del trabajo humano, aumento de errores.
+**Problemas que resuelve**
+-	Analisis rápido de grandes volúmenes de información.
+-	Reducción de errores humanos.
+-	Automatización de tareas repetitivas.
+**Casos de uso actual.**
+Hoy en día vemos la inteligencia artificial aplicada en:
+-	Asistentes virtuales.
+-	Medicina.
+-	Automóviles.
+-	Comercio electrónico.
+-	Seguridad: Reconocimiento facial y detección de fraudes.
+-	Educación.
+**Conclusión**
+Para mí, este tema es importante porque presenta el futuro de la tecnología y demuestra como el conocimiento humano puede crear herramientas que ayudan a la sociedad a avanza de manera más eficiente. 
+
